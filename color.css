@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+.box{
+    border-top:solid black 2px;
+    border-bottom:solid black 2px;
+    border-left:solid black 2px;
+    border-right:solid black 2px;
+    width:400px;
+    height:400px;
+    margin:20px auto;
+    
+}
+.b{
+    width:200px;
+    margin:auto;
+    font-size:25px;
+}
+#red{
+    
+    background-color:red;
+}
+
+#yellow{
+   
+    background-color:yellow;
+  
+}
+#green{
+  
+    background-color:green;
+   
+
+}
+#blue{
+
+    background-color:blue;
+   
+}
+
+
+
